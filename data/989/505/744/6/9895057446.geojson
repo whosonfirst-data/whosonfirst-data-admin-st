@@ -1,0 +1,73 @@
+{
+  "id": 9895057446,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.67423,0.30154,6.67423,0.30154",
+    "geom:latitude":0.30154,
+    "geom:longitude":6.67423,
+    "gn:population":932,
+    "iso:country":"ST",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12718720: name \"Bel\u00e9m\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12718720"
+        },
+        {
+            "citation":"GeoNames populated place 12718720: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12718720"
+        },
+        {
+            "citation":"GeoNames populated place 12718720: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12718720"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85677301 (S\u00e3o Tom\u00e9), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632765,
+        85677301,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12718720
+    },
+    "wof:country":"ST",
+    "wof:geomhash":"a7b132046b8bd6fed726734341b6ed35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632765,
+            "locality_id":9895057446,
+            "region_id":85677301
+        }
+    ],
+    "wof:id":9895057446,
+    "wof:lastmodified":1795735043,
+    "wof:name":"Bel\u00e9m",
+    "wof:parent_id":85677301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-st",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.67423,
+    0.30154,
+    6.67423,
+    0.30154
+],
+  "geometry": {"coordinates":[6.67423,0.30154],"type":"Point"}
+}

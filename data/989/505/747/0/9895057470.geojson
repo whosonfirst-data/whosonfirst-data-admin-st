@@ -1,0 +1,72 @@
+{
+  "id": 9895057470,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.41544,1.67439,7.41544,1.67439",
+    "geom:latitude":1.67439,
+    "geom:longitude":7.41544,
+    "iso:country":"ST",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13103504: name \"Agui\u00e3\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13103504"
+        },
+        {
+            "citation":"GeoNames populated place 13103504: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13103504"
+        },
+        {
+            "citation":"GeoNames populated place 13103504: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13103504"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85677303 (Pr\u00edncipe), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632765,
+        85677303,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13103504
+    },
+    "wof:country":"ST",
+    "wof:geomhash":"8f4a9e142b6259f944c2609bcf0b9ee6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632765,
+            "locality_id":9895057470,
+            "region_id":85677303
+        }
+    ],
+    "wof:id":9895057470,
+    "wof:lastmodified":1795735043,
+    "wof:name":"Agui\u00e3",
+    "wof:parent_id":85677303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-st",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.41544,
+    1.67439,
+    7.41544,
+    1.67439
+],
+  "geometry": {"coordinates":[7.41544,1.67439],"type":"Point"}
+}

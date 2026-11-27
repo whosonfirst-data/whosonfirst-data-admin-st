@@ -1,0 +1,72 @@
+{
+  "id": 9895057539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.73401,0.25498,6.73401,0.25498",
+    "geom:latitude":0.25498,
+    "geom:longitude":6.73401,
+    "iso:country":"ST",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13138574: name \"Zandrigo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13138574"
+        },
+        {
+            "citation":"GeoNames populated place 13138574: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13138574"
+        },
+        {
+            "citation":"GeoNames populated place 13138574: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13138574"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85677301 (S\u00e3o Tom\u00e9), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632765,
+        85677301,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13138574
+    },
+    "wof:country":"ST",
+    "wof:geomhash":"5ac8a66629584168b05f296ba4cbf842",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632765,
+            "locality_id":9895057539,
+            "region_id":85677301
+        }
+    ],
+    "wof:id":9895057539,
+    "wof:lastmodified":1795735043,
+    "wof:name":"Zandrigo",
+    "wof:parent_id":85677301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-st",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.73401,
+    0.25498,
+    6.73401,
+    0.25498
+],
+  "geometry": {"coordinates":[6.73401,0.25498],"type":"Point"}
+}

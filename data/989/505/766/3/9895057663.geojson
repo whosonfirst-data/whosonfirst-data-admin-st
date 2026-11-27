@@ -1,0 +1,72 @@
+{
+  "id": 9895057663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.69749,0.3133,6.69749,0.3133",
+    "geom:latitude":0.3133,
+    "geom:longitude":6.69749,
+    "iso:country":"ST",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13151866: name \"Vila Ros\u00e1rio\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13151866"
+        },
+        {
+            "citation":"GeoNames populated place 13151866: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13151866"
+        },
+        {
+            "citation":"GeoNames populated place 13151866: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13151866"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85677301 (S\u00e3o Tom\u00e9), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632765,
+        85677301,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13151866
+    },
+    "wof:country":"ST",
+    "wof:geomhash":"da1049277719c2d16bba8e982ccdbb8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632765,
+            "locality_id":9895057663,
+            "region_id":85677301
+        }
+    ],
+    "wof:id":9895057663,
+    "wof:lastmodified":1795735043,
+    "wof:name":"Vila Ros\u00e1rio",
+    "wof:parent_id":85677301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-st",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.69749,
+    0.3133,
+    6.69749,
+    0.3133
+],
+  "geometry": {"coordinates":[6.69749,0.3133],"type":"Point"}
+}

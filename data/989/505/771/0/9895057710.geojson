@@ -1,0 +1,72 @@
+{
+  "id": 9895057710,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.65257,0.30292,6.65257,0.30292",
+    "geom:latitude":0.30292,
+    "geom:longitude":6.65257,
+    "iso:country":"ST",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13151931: name \"Oc\u00e1 Oco\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13151931"
+        },
+        {
+            "citation":"GeoNames populated place 13151931: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13151931"
+        },
+        {
+            "citation":"GeoNames populated place 13151931: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13151931"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85677301 (S\u00e3o Tom\u00e9), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632765,
+        85677301,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13151931
+    },
+    "wof:country":"ST",
+    "wof:geomhash":"60a727d34510c3bc5a7389c9a11713a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632765,
+            "locality_id":9895057710,
+            "region_id":85677301
+        }
+    ],
+    "wof:id":9895057710,
+    "wof:lastmodified":1795735043,
+    "wof:name":"Oc\u00e1 Oco",
+    "wof:parent_id":85677301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-st",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.65257,
+    0.30292,
+    6.65257,
+    0.30292
+],
+  "geometry": {"coordinates":[6.65257,0.30292],"type":"Point"}
+}

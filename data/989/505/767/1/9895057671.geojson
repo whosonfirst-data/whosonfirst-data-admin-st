@@ -1,0 +1,73 @@
+{
+  "id": 9895057671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.6477,0.30453,6.6477,0.30453",
+    "geom:latitude":0.30453,
+    "geom:longitude":6.6477,
+    "gn:population":16,
+    "iso:country":"ST",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13151881: name \"Albertina\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13151881"
+        },
+        {
+            "citation":"GeoNames populated place 13151881: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13151881"
+        },
+        {
+            "citation":"GeoNames populated place 13151881: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13151881"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85677301 (S\u00e3o Tom\u00e9), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632765,
+        85677301,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13151881
+    },
+    "wof:country":"ST",
+    "wof:geomhash":"20012c085005ce66d530c82672b6b3ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632765,
+            "locality_id":9895057671,
+            "region_id":85677301
+        }
+    ],
+    "wof:id":9895057671,
+    "wof:lastmodified":1795735043,
+    "wof:name":"Albertina",
+    "wof:parent_id":85677301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-st",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.6477,
+    0.30453,
+    6.6477,
+    0.30453
+],
+  "geometry": {"coordinates":[6.6477,0.30453],"type":"Point"}
+}

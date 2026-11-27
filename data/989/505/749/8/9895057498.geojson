@@ -1,0 +1,72 @@
+{
+  "id": 9895057498,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.56742,0.30408,6.56742,0.30408",
+    "geom:latitude":0.30408,
+    "geom:longitude":6.56742,
+    "iso:country":"ST",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13130687: name \"Ant\u00f3nio Morais\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13130687"
+        },
+        {
+            "citation":"GeoNames populated place 13130687: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13130687"
+        },
+        {
+            "citation":"GeoNames populated place 13130687: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13130687"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85677301 (S\u00e3o Tom\u00e9), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632765,
+        85677301,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13130687
+    },
+    "wof:country":"ST",
+    "wof:geomhash":"bcc96b4be07eed3865f2f74cb7143503",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632765,
+            "locality_id":9895057498,
+            "region_id":85677301
+        }
+    ],
+    "wof:id":9895057498,
+    "wof:lastmodified":1795735043,
+    "wof:name":"Ant\u00f3nio Morais",
+    "wof:parent_id":85677301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-st",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.56742,
+    0.30408,
+    6.56742,
+    0.30408
+],
+  "geometry": {"coordinates":[6.56742,0.30408],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 9895057507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.55649,0.314,6.55649,0.314",
+    "geom:latitude":0.314,
+    "geom:longitude":6.55649,
+    "iso:country":"ST",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13130717: name \"Manuel Morais\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13130717"
+        },
+        {
+            "citation":"GeoNames populated place 13130717: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13130717"
+        },
+        {
+            "citation":"GeoNames populated place 13130717: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13130717"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85677301 (S\u00e3o Tom\u00e9), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632765,
+        85677301,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13130717
+    },
+    "wof:country":"ST",
+    "wof:geomhash":"becc6cd50434f75a4364f57633ada966",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632765,
+            "locality_id":9895057507,
+            "region_id":85677301
+        }
+    ],
+    "wof:id":9895057507,
+    "wof:lastmodified":1795735043,
+    "wof:name":"Manuel Morais",
+    "wof:parent_id":85677301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-st",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.55649,
+    0.314,
+    6.55649,
+    0.314
+],
+  "geometry": {"coordinates":[6.55649,0.314],"type":"Point"}
+}

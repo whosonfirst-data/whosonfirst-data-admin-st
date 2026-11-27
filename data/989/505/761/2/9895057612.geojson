@@ -1,0 +1,73 @@
+{
+  "id": 9895057612,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.67051,0.30693,6.67051,0.30693",
+    "geom:latitude":0.30693,
+    "geom:longitude":6.67051,
+    "gn:population":66,
+    "iso:country":"ST",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13151800: name \"Mulemb\u00fa\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13151800"
+        },
+        {
+            "citation":"GeoNames populated place 13151800: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13151800"
+        },
+        {
+            "citation":"GeoNames populated place 13151800: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13151800"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85677301 (S\u00e3o Tom\u00e9), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632765,
+        85677301,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13151800
+    },
+    "wof:country":"ST",
+    "wof:geomhash":"5e0cbedab18101ad9385369882b64883",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632765,
+            "locality_id":9895057612,
+            "region_id":85677301
+        }
+    ],
+    "wof:id":9895057612,
+    "wof:lastmodified":1795735043,
+    "wof:name":"Mulemb\u00fa",
+    "wof:parent_id":85677301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-st",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.67051,
+    0.30693,
+    6.67051,
+    0.30693
+],
+  "geometry": {"coordinates":[6.67051,0.30693],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 9895092545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.46397,0.24463,6.46397,0.24463",
+    "geom:latitude":0.24463,
+    "geom:longitude":6.46397,
+    "gn:population":10,
+    "iso:country":"ST",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13196319: name \"Boca Bela\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13196319"
+        },
+        {
+            "citation":"GeoNames populated place 13196319: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13196319"
+        },
+        {
+            "citation":"GeoNames populated place 13196319: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13196319"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85677301 (S\u00e3o Tom\u00e9), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632765,
+        85677301,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13196319
+    },
+    "wof:country":"ST",
+    "wof:geomhash":"ee6861d5bb2122573673e531a1c61cf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632765,
+            "locality_id":9895092545,
+            "region_id":85677301
+        }
+    ],
+    "wof:id":9895092545,
+    "wof:lastmodified":1795746174,
+    "wof:name":"Boca Bela",
+    "wof:parent_id":85677301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-st",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.46397,
+    0.24463,
+    6.46397,
+    0.24463
+],
+  "geometry": {"coordinates":[6.46397,0.24463],"type":"Point"}
+}

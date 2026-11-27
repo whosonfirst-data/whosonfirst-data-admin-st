@@ -1,0 +1,72 @@
+{
+  "id": 9895057505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.54315,0.31462,6.54315,0.31462",
+    "geom:latitude":0.31462,
+    "geom:longitude":6.54315,
+    "iso:country":"ST",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13130714: name \"Maria Emilia\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13130714"
+        },
+        {
+            "citation":"GeoNames populated place 13130714: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13130714"
+        },
+        {
+            "citation":"GeoNames populated place 13130714: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13130714"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85677301 (S\u00e3o Tom\u00e9), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632765,
+        85677301,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13130714
+    },
+    "wof:country":"ST",
+    "wof:geomhash":"66fdd15c17460482dd59fa094266df44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632765,
+            "locality_id":9895057505,
+            "region_id":85677301
+        }
+    ],
+    "wof:id":9895057505,
+    "wof:lastmodified":1795735043,
+    "wof:name":"Maria Emilia",
+    "wof:parent_id":85677301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-st",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.54315,
+    0.31462,
+    6.54315,
+    0.31462
+],
+  "geometry": {"coordinates":[6.54315,0.31462],"type":"Point"}
+}
